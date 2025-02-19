@@ -39,3 +39,5 @@ is_up = res.get("is_up", False)
 ```
 
 ### UML sequence diagram
+
+![UML sequence diagram](./uml_sequence_diagram.png)
